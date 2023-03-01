@@ -12,7 +12,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "ortizmeraz.com"
 publishDir = "public"
 
 # Remote
